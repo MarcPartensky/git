@@ -236,7 +236,7 @@
 	path = prospectix6-front
 	url = ./prospectix-front
 [submodule "prospectix-infra"]
-	path = prospectix-infra
+	path = prospectix6-infra
 	url = ./prospectix-infra
 [submodule "proxy-list"]
 	path = proxy-list
