@@ -1,0 +1,354 @@
+[submodule "api-doc2"]
+	path = api-doc2
+	url = ./ansible
+[submodule "ansible"]
+	path = ansible
+	url = ./ansible
+[submodule "api-slack"]
+	path = api-slack
+	url = ./api-slack
+[submodule "applescript"]
+	path = applescript
+	url = ./applescript
+[submodule "automation"]
+	path = automation
+	url = ./automation
+[submodule "backup-cleaner"]
+	path = backup-cleaner
+	url = ./backup-cleaner
+[submodule "backup-scripts"]
+	path = backup-scripts
+	url = ./backup-scripts
+[submodule "bashbunny-payloads"]
+	path = bashbunny-payloads
+	url = ./bashbunny-payloads
+[submodule "battistelli"]
+	path = battistelli
+	url = ./battistelli
+[submodule "bitwarden-server"]
+	path = bitwarden-server
+	url = ./bitwarden-server
+[submodule "brainperformer"]
+	path = brainperformer
+	url = ./brainperformer
+[submodule "bruteforce-gpg"]
+	path = bruteforce-gpg
+	url = ./bruteforce-gpg
+[submodule "caddix"]
+	path = caddix
+	url = ./caddix
+[submodule "caps2esc"]
+	path = caps2esc
+	url = ./caps2esc
+[submodule "colis21"]
+	path = colis21
+	url = ./colis21
+[submodule "concours-consultants-2013"]
+	path = concours-consultants-2013
+	url = ./concours-consultants-2013
+[submodule "consultant-mobile-app"]
+	path = consultant-mobile-app
+	url = ./consultant-mobile-app
+[submodule "cv"]
+	path = cv
+	url = ./cv
+[submodule "cv2"]
+	path = cv2
+	url = ./cv2
+[submodule "discord-bot"]
+	path = discord-bot
+	url = ./discord-bot
+[submodule "docker"]
+	path = docker
+	url = ./docker
+[submodule "docker-api"]
+	path = docker-api
+	url = ./docker-api
+[submodule "docker-consultants"]
+	path = docker-consultants
+	url = ./docker-consultants
+[submodule "docker-engine"]
+	path = docker-engine
+	url = ./docker-engine
+[submodule "dotfiles"]
+	path = dotfiles
+	url = ./dotfiles
+[submodule "focalboard"]
+	path = focalboard
+	url = ./focalboard
+[submodule "Fourier"]
+	path = Fourier
+	url = ./Fourier
+[submodule "gansformer"]
+	path = gansformer
+	url = ./gansformer
+[submodule "git"]
+	path = git
+	url = ./git
+[submodule "github-cv"]
+	path = github-cv
+	url = ./github-cv
+[submodule "go"]
+	path = go
+	url = ./go
+[submodule "hackerrank"]
+	path = hackerrank
+	url = ./hackerrank
+[submodule "hackingtool"]
+	path = hackingtool
+	url = ./hackingtool
+[submodule "homebrew-core"]
+	path = homebrew-core
+	url = ./homebrew-core
+[submodule "icons-in-terminal"]
+	path = icons-in-terminal
+	url = ./icons-in-terminal
+[submodule "infra-dockers-consultants"]
+	path = infra-dockers-consultants
+	url = ./infra-dockers-consultants
+[submodule "inspircd"]
+	path = inspircd
+	url = ./inspircd
+[submodule "interception_tools"]
+	path = interception_tools
+	url = ./interception_tools
+[submodule "iseplife-back"]
+	path = iseplife-back
+	url = ./iseplife-back
+[submodule "iseplife-front"]
+	path = iseplife-front
+	url = ./iseplife-front
+[submodule "iseplive"]
+	path = iseplive
+	url = ./iseplive
+[submodule "java"]
+	path = java
+	url = ./java
+[submodule "je-todoapp"]
+	path = je-todoapp
+	url = ./je-todoapp
+[submodule "je-wiki"]
+	path = je-wiki
+	url = ./je-wiki
+[submodule "john"]
+	path = john
+	url = ./john
+[submodule "jupyter"]
+	path = jupyter
+	url = ./jupyter
+[submodule "latex"]
+	path = latex
+	url = ./latex
+[submodule "lightcord-bin"]
+	path = lightcord-bin
+	url = ./lightcord-bin
+[submodule "linkedix"]
+	path = linkedix
+	url = ./linkedix
+[submodule "linux"]
+	path = linux
+	url = ./linux
+[submodule "log4jpwn"]
+	path = log4jpwn
+	url = ./log4jpwn
+[submodule "markdown"]
+	path = markdown
+	url = ./markdown
+[submodule "metasploit-framework"]
+	path = metasploit-framework
+	url = ./metasploit-framework
+[submodule "minikube"]
+	path = minikube
+	url = ./minikube
+[submodule "mounts"]
+	path = mounts
+	url = ./mounts
+[submodule "neovim"]
+	path = neovim
+	url = ./neovim
+[submodule "nerd-fonts"]
+	path = nerd-fonts
+	url = ./nerd-fonts
+[submodule "netcat"]
+	path = netcat
+	url = ./netcat
+[submodule "nvim"]
+	path = nvim
+	url = ./nvim
+[submodule "pandoc-api"]
+	path = pandoc-api
+	url = ./pandoc-api
+[submodule "paraphrase-generator"]
+	path = paraphrase-generator
+	url = ./paraphrase-generator
+[submodule "paraphraser"]
+	path = paraphraser
+	url = ./paraphraser
+[submodule "pass-import"]
+	path = pass-import
+	url = ./pass-import
+[submodule "pegasus-api"]
+	path = pegasus-api
+	url = ./pegasus-api
+[submodule "pegasus-front"]
+	path = pegasus-front
+	url = ./pegasus-front
+[submodule "pegasus-infra"]
+	path = pegasus-infra
+	url = ./pegasus-infra
+[submodule "phoenix-api"]
+	path = phoenix-api
+	url = ./phoenix-api
+[submodule "phoenix-front"]
+	path = phoenix-front
+	url = ./phoenix-front
+[submodule "phoenix-infra"]
+	path = phoenix-infra
+	url = ./phoenix-infra
+[submodule "pickup"]
+	path = pickup
+	url = ./pickup
+[submodule "platform_frameworks_base"]
+	path = platform_frameworks_base
+	url = ./platform_frameworks_base
+[submodule "portix"]
+	path = portix
+	url = ./portix
+[submodule "pritunl"]
+	path = pritunl
+	url = ./pritunl
+[submodule "pritunl-client-electron"]
+	path = pritunl-client-electron
+	url = ./pritunl-client-electron
+[submodule "prospectix7"]
+	path = prospectix7
+	url = ./prospectix7
+[submodule "prospectix7-api"]
+	path = prospectix7-api
+	url = ./prospectix7-api
+[submodule "prospectix7-front"]
+	path = prospectix7-front
+	url = ./prospectix7-front
+[submodule "prospectix-api"]
+	path = prospectix-api
+	url = ./prospectix-api
+[submodule "prospectix-front"]
+	path = prospectix-front
+	url = ./prospectix-front
+[submodule "prospectix-infra"]
+	path = prospectix-infra
+	url = ./prospectix-infra
+[submodule "proxy-list"]
+	path = proxy-list
+	url = ./proxy-list
+[submodule "pymake"]
+	path = pymake
+	url = ./pymake
+[submodule "Python"]
+	path = Python
+	url = ./Python
+[submodule "python-2020"]
+	path = python-2020
+	url = ./python-2020
+[submodule "reactive-resume"]
+	path = reactive-resume
+	url = ./reactive-resume
+[submodule "rgpdix"]
+	path = rgpdix
+	url = ./rgpdix
+[submodule "robomongo"]
+	path = robomongo
+	url = ./robomongo
+[submodule "rust"]
+	path = rust
+	url = ./rust
+[submodule "samy-dotfiles"]
+	path = samy-dotfiles
+	url = ./samy-dotfiles
+[submodule "sandbox"]
+	path = sandbox
+	url = ./sandbox
+[submodule "schtroumpfix"]
+	path = schtroumpfix
+	url = ./schtroumpfix
+[submodule "secrets"]
+	path = secrets
+	url = ./secrets
+[submodule "sequelpro"]
+	path = sequelpro
+	url = ./sequelpro
+[submodule "shell"]
+	path = shell
+	url = ./shell
+[submodule "signal-desktop"]
+	path = signal-desktop
+	url = ./signal-desktop
+[submodule "signal-server"]
+	path = signal-server
+	url = ./signal-server
+[submodule "ssh"]
+	path = ssh
+	url = ./ssh
+[submodule "ssh-honeypot"]
+	path = ssh-honeypot
+	url = ./ssh-honeypot
+[submodule "sshpiper"]
+	path = sshpiper
+	url = ./sshpiper
+[submodule "stow"]
+	path = stow
+	url = ./stow
+[submodule "student-webapp"]
+	path = student-webapp
+	url = ./student-webapp
+[submodule "svelte-template"]
+	path = svelte-template
+	url = ./svelte-template
+[submodule "sysadmin-tools"]
+	path = sysadmin-tools
+	url = ./sysadmin-tools
+[submodule "termux"]
+	path = termux
+	url = ./termux
+[submodule "termux-app"]
+	path = termux-app
+	url = ./termux-app
+[submodule "termux-packages"]
+	path = termux-packages
+	url = ./termux-packages
+[submodule "thaiwara"]
+	path = thaiwara
+	url = ./thaiwara
+[submodule "thc-hydra"]
+	path = thc-hydra
+	url = ./thc-hydra
+[submodule "tia21"]
+	path = tia21
+	url = ./tia21
+[submodule "tmate-ssh-server"]
+	path = tmate-ssh-server
+	url = ./tmate-ssh-server
+[submodule "tunnel"]
+	path = tunnel
+	url = ./tunnel
+[submodule "upterm"]
+	path = upterm
+	url = ./upterm
+[submodule "vagrant"]
+	path = vagrant
+	url = ./vagrant
+[submodule "vpn"]
+	path = vpn
+	url = ./vpn
+[submodule "web"]
+	path = web
+	url = ./web
+[submodule "website"]
+	path = website
+	url = ./website
+[submodule "wordpress"]
+	path = wordpress
+	url = ./wordpress
+[submodule "xerosploit"]
+	path = xerosploit
+	url = ./xerosploit
