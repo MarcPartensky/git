@@ -352,3 +352,24 @@
 [submodule "xerosploit"]
 	path = xerosploit
 	url = ./xerosploit
+[submodule "favicon-proxy"]
+	path = favicon-proxy
+	url = ./favicon-proxy
+[submodule "kdbxweb"]
+	path = kdbxweb
+	url = ./kdbxweb
+[submodule "keeweb-beta"]
+	path = keeweb-beta
+	url = ./keeweb-beta
+[submodule "keeweb-connect"]
+	path = keeweb-connect
+	url = ./keeweb-connect
+[submodule "keeweb-plugins"]
+	path = keeweb-plugins
+	url = ./keeweb-plugins
+[submodule "keeweb-site"]
+	path = keeweb-site
+	url = ./keeweb-site
+[submodule "keeweb"]
+	path = keeweb
+	url = ./keeweb
