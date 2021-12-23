@@ -230,10 +230,10 @@
 	path = prospectix7-front
 	url = ./prospectix7-front
 [submodule "prospectix-api"]
-	path = prospectix-api
+	path = prospectix6-api
 	url = ./prospectix-api
 [submodule "prospectix-front"]
-	path = prospectix-front
+	path = prospectix6-front
 	url = ./prospectix-front
 [submodule "prospectix-infra"]
 	path = prospectix-infra
