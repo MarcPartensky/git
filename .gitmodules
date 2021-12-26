@@ -373,3 +373,9 @@
 [submodule "keeweb"]
 	path = keeweb
 	url = ./keeweb
+[submodule "fail2ban"]
+	path = fail2ban
+	url = ./fail2ban
+[submodule "discord-irc"]
+	path = discord-irc
+	url = ./discord-irc
