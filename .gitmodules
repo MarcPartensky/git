@@ -379,3 +379,6 @@
 [submodule "discord-irc"]
 	path = discord-irc
 	url = ./discord-irc
+[submodule "searchix-api"]
+	path = searchix-api
+	url = ./searchix-api
