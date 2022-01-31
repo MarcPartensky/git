@@ -1,7 +1,16 @@
-pull:
-	git submodule update --init --recursive
+update: stash fetch pull add commit push unstash
+stash:
+	git stash
 fetch:
 	git pull --recurse-submodules
+pull:
+	git submodule update --init --recursive
 add:
-	for gitproject in $(/bin/ls); do git submodule add ./$gitproject; done
-
+	sh -c 'for gitproject in $$(/bin/ls); do git submodule add ./$$gitproject; done'
+	git add -A
+commit:
+	git commit -S -m "update"
+push:
+	git push
+unstash:
+	git stash pop

@@ -382,3 +382,48 @@
 [submodule "searchix-api"]
 	path = searchix-api
 	url = ./searchix-api
+[submodule "bully"]
+	path = bully
+	url = ./bully
+[submodule "C"]
+	path = C
+	url = ./C
+[submodule "docker-forticlient"]
+	path = docker-forticlient
+	url = ./docker-forticlient
+[submodule "insomnia"]
+	path = insomnia
+	url = ./insomnia
+[submodule "isphoenixup"]
+	path = isphoenixup
+	url = ./isphoenixup
+[submodule "kingdomino"]
+	path = kingdomino
+	url = ./kingdomino
+[submodule "nuki"]
+	path = nuki
+	url = ./nuki
+[submodule "pms"]
+	path = pms
+	url = ./pms
+[submodule "prospectix5-back"]
+	path = prospectix5-back
+	url = ./prospectix5-back
+[submodule "silentxmrminer"]
+	path = silentxmrminer
+	url = ./silentxmrminer
+[submodule "spotify-cli"]
+	path = spotify-cli
+	url = ./spotify-cli
+[submodule "tmux-spotify"]
+	path = tmux-spotify
+	url = ./tmux-spotify
+[submodule "wifi-bf"]
+	path = wifi-bf
+	url = ./wifi-bf
+[submodule "wifi-brute-force"]
+	path = wifi-brute-force
+	url = ./wifi-brute-force
+[submodule "wifite2"]
+	path = wifite2
+	url = ./wifite2
