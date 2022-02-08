@@ -1,3 +1,15 @@
+[submodule "tia21"]
+	path = tia21
+	url = https://pickupsa:h7n4j67bojbllh3zqnj66vi6jlsqyeocen6esqwebb4nrssc3hva@dev.azure.com/pickupsa/Pickup/_git/TIA21
+[submodule "colis21"]
+	path = colis21
+	url = https://pickupsa:hley2us2mspmwgfndxkgplbvhzjifgv2pztkotc6rq2eq3akysrq@dev.azure.com/pickupsa/Pickup/_git/Colis21
+[submodule "tia21-config"]
+	path = tia21-config
+	url = https://pickupsa:wdcochjwnejq5ctczmzjhkhurth4k5iv6gwmx7ltkrhbx2xu4vnq@dev.azure.com/pickupsa/Pickup/_git/TIA21-config
+[submodule "colis21-config"]
+	path = colis21-config
+	url = https://pickupsa:olmbqanvnrqhxqsklukbd7tqlltqa2kwhsvrg4q72x6gvieufrcq@dev.azure.com/pickupsa/Pickup/_git/Colis21-config
 [submodule "api-doc2"]
 	path = api-doc2
 	url = ./ansible
@@ -230,13 +242,13 @@
 	path = prospectix7-front
 	url = ./prospectix7-front
 [submodule "prospectix-api"]
-	path = prospectix6-api
+	path = prospectix-api
 	url = ./prospectix-api
 [submodule "prospectix-front"]
-	path = prospectix6-front
+	path = prospectix-front
 	url = ./prospectix-front
 [submodule "prospectix-infra"]
-	path = prospectix6-infra
+	path = prospectix-infra
 	url = ./prospectix-infra
 [submodule "proxy-list"]
 	path = proxy-list
@@ -352,78 +364,9 @@
 [submodule "xerosploit"]
 	path = xerosploit
 	url = ./xerosploit
-[submodule "favicon-proxy"]
-	path = favicon-proxy
-	url = ./favicon-proxy
-[submodule "kdbxweb"]
-	path = kdbxweb
-	url = ./kdbxweb
-[submodule "keeweb-beta"]
-	path = keeweb-beta
-	url = ./keeweb-beta
-[submodule "keeweb-connect"]
-	path = keeweb-connect
-	url = ./keeweb-connect
-[submodule "keeweb-plugins"]
-	path = keeweb-plugins
-	url = ./keeweb-plugins
-[submodule "keeweb-site"]
-	path = keeweb-site
-	url = ./keeweb-site
-[submodule "keeweb"]
-	path = keeweb
-	url = ./keeweb
-[submodule "fail2ban"]
-	path = fail2ban
-	url = ./fail2ban
-[submodule "discord-irc"]
-	path = discord-irc
-	url = ./discord-irc
-[submodule "searchix-api"]
-	path = searchix-api
-	url = ./searchix-api
-[submodule "bully"]
-	path = bully
-	url = ./bully
-[submodule "C"]
-	path = C
-	url = ./C
-[submodule "docker-forticlient"]
-	path = docker-forticlient
-	url = ./docker-forticlient
-[submodule "insomnia"]
-	path = insomnia
-	url = ./insomnia
-[submodule "isphoenixup"]
-	path = isphoenixup
-	url = ./isphoenixup
-[submodule "kingdomino"]
-	path = kingdomino
-	url = ./kingdomino
-[submodule "nuki"]
-	path = nuki
-	url = ./nuki
-[submodule "pms"]
-	path = pms
-	url = ./pms
-[submodule "prospectix5-back"]
-	path = prospectix5-back
-	url = ./prospectix5-back
-[submodule "silentxmrminer"]
-	path = silentxmrminer
-	url = ./silentxmrminer
-[submodule "spotify-cli"]
-	path = spotify-cli
-	url = ./spotify-cli
-[submodule "tmux-spotify"]
-	path = tmux-spotify
-	url = ./tmux-spotify
-[submodule "wifi-bf"]
-	path = wifi-bf
-	url = ./wifi-bf
-[submodule "wifi-brute-force"]
-	path = wifi-brute-force
-	url = ./wifi-brute-force
-[submodule "wifite2"]
-	path = wifite2
-	url = ./wifite2
+[submodule "c"]
+	path = c
+	url = ./c
+[submodule "valentin-dotfiles"]
+	path = valentin-dotfiles
+	url = ./valentin-dotfiles
