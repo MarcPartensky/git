@@ -370,3 +370,45 @@
 [submodule "valentin-dotfiles"]
 	path = valentin-dotfiles
 	url = ./valentin-dotfiles
+[submodule "blockchain"]
+	path = blockchain
+	url = ./blockchain
+[submodule "caddy-vps"]
+	path = caddy-vps
+	url = ./caddy-vps
+[submodule "csharp"]
+	path = csharp
+	url = ./csharp
+[submodule "ff2mpv"]
+	path = ff2mpv
+	url = ./ff2mpv
+[submodule "framapad"]
+	path = framapad
+	url = ./framapad
+[submodule "ia-optimisation"]
+	path = ia-optimisation
+	url = ./ia-optimisation
+[submodule "isep"]
+	path = isep
+	url = ./isep
+[submodule "je-pharmacie-francaise-api"]
+	path = je-pharmacie-francaise-api
+	url = ./je-pharmacie-francaise-api
+[submodule "JohnTheRipper"]
+	path = JohnTheRipper
+	url = ./JohnTheRipper
+[submodule "monero"]
+	path = monero
+	url = ./monero
+[submodule "monero-gui"]
+	path = monero-gui
+	url = ./monero-gui
+[submodule "novpn"]
+	path = novpn
+	url = ./novpn
+[submodule "reredirect"]
+	path = reredirect
+	url = ./reredirect
+[submodule "template"]
+	path = template
+	url = ./template
