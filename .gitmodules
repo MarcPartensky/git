@@ -412,3 +412,6 @@
 [submodule "template"]
 	path = template
 	url = ./template
+[submodule "johntheripper"]
+	path = johntheripper
+	url = ./johntheripper
