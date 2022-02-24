@@ -1,4 +1,4 @@
-update: stash fetch pull add commit push unstash
+update: add commit stash fetch pull push unstash
 stash:
 	git stash
 fetch:
