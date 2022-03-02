@@ -415,3 +415,24 @@
 [submodule "johntheripper"]
 	path = johntheripper
 	url = ./johntheripper
+[submodule "beef"]
+	path = beef
+	url = ./beef
+[submodule "data-analysis"]
+	path = data-analysis
+	url = ./data-analysis
+[submodule "git-puller"]
+	path = git-puller
+	url = ./git-puller
+[submodule "jupyter-by-marc"]
+	path = jupyter-by-marc
+	url = ./jupyter-by-marc
+[submodule "live-streaming-using-opencv-flask"]
+	path = live-streaming-using-opencv-flask
+	url = ./live-streaming-using-opencv-flask
+[submodule "opencv-stream-video-to-web"]
+	path = opencv-stream-video-to-web
+	url = ./opencv-stream-video-to-web
+[submodule "service"]
+	path = service
+	url = ./service
