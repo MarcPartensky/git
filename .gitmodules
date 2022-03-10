@@ -436,3 +436,18 @@
 [submodule "service"]
 	path = service
 	url = ./service
+[submodule "libinput-gestures"]
+	path = libinput-gestures
+	url = ./libinput-gestures
+[submodule "mailcow-dockerized"]
+	path = mailcow-dockerized
+	url = ./mailcow-dockerized
+[submodule "pulseaudio-ctl"]
+	path = pulseaudio-ctl
+	url = ./pulseaudio-ctl
+[submodule "python"]
+	path = python
+	url = ./python
+[submodule "slackisotermix"]
+	path = slackisotermix
+	url = ./slackisotermix
