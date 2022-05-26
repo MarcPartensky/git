@@ -451,3 +451,141 @@
 [submodule "slackisotermix"]
 	path = slackisotermix
 	url = ./slackisotermix
+[submodule "anomaly21"]
+	path = anomaly21
+	url = ./anomaly21
+[submodule "airflow"]
+	path = airflow
+	url = ./airflow
+[submodule "app-intervenant-infra"]
+	path = app-intervenant-infra
+	url = ./app-intervenant-infra
+[submodule "bspwm"]
+	path = bspwm
+	url = ./bspwm
+[submodule "camphish"]
+	path = camphish
+	url = ./camphish
+[submodule "database"]
+	path = database
+	url = ./database
+[submodule "deskreen"]
+	path = deskreen
+	url = ./deskreen
+[submodule "dwm"]
+	path = dwm
+	url = ./dwm
+[submodule "extension-list"]
+	path = extension-list
+	url = ./extension-list
+[submodule "gnome-shell-extensions"]
+	path = gnome-shell-extensions
+	url = ./gnome-shell-extensions
+[submodule "IALab"]
+	path = IALab
+	url = ./IALab
+[submodule "miraclecast"]
+	path = miraclecast
+	url = ./miraclecast
+[submodule "mojave-gtk-theme"]
+	path = mojave-gtk-theme
+	url = ./mojave-gtk-theme
+[submodule "paper-icon-theme"]
+	path = paper-icon-theme
+	url = ./paper-icon-theme
+[submodule "pegasus-documents"]
+	path = pegasus-documents
+	url = ./pegasus-documents
+[submodule "phoenix-mail"]
+	path = phoenix-mail
+	url = ./phoenix-mail
+[submodule "phoenix-services"]
+	path = phoenix-services
+	url = ./phoenix-services
+[submodule "pickup-kibana"]
+	path = pickup-kibana
+	url = ./pickup-kibana
+[submodule "poetry-test"]
+	path = poetry-test
+	url = ./poetry-test
+[submodule "polybar-dwm-module"]
+	path = polybar-dwm-module
+	url = ./polybar-dwm-module
+[submodule "spotify"]
+	path = spotify
+	url = ./spotify
+[submodule "arch"]
+	path = arch
+	url = ./arch
+[submodule "avd"]
+	path = avd
+	url = ./avd
+[submodule "connman"]
+	path = connman
+	url = ./connman
+[submodule "data-analysis-vinicole"]
+	path = data-analysis-vinicole
+	url = ./data-analysis-vinicole
+[submodule "dwm-bar"]
+	path = dwm-bar
+	url = ./dwm-bar
+[submodule "element-desktop"]
+	path = element-desktop
+	url = ./element-desktop
+[submodule "ly"]
+	path = ly
+	url = ./ly
+[submodule "networkmanager-dmenu"]
+	path = networkmanager-dmenu
+	url = ./networkmanager-dmenu
+[submodule "pamixer"]
+	path = pamixer
+	url = ./pamixer
+[submodule "watsmynote"]
+	path = watsmynote
+	url = ./watsmynote
+[submodule "airstatus"]
+	path = airstatus
+	url = ./airstatus
+[submodule "bigdata-project"]
+	path = bigdata-project
+	url = ./bigdata-project
+[submodule "caddy-docker-proxy"]
+	path = caddy-docker-proxy
+	url = ./caddy-docker-proxy
+[submodule "dotfiles-arp242"]
+	path = dotfiles-arp242
+	url = ./dotfiles-arp242
+[submodule "dwm-flexipatch"]
+	path = dwm-flexipatch
+	url = ./dwm-flexipatch
+[submodule "green-recorder"]
+	path = green-recorder
+	url = ./green-recorder
+[submodule "mailspring"]
+	path = mailspring
+	url = ./mailspring
+[submodule "mapix"]
+	path = mapix
+	url = ./mapix
+[submodule "schtroumpfix2"]
+	path = schtroumpfix2
+	url = ./schtroumpfix2
+[submodule "spotifyd"]
+	path = spotifyd
+	url = ./spotifyd
+[submodule "st"]
+	path = st
+	url = ./st
+[submodule "switchboard-plug-bluetooth"]
+	path = switchboard-plug-bluetooth
+	url = ./switchboard-plug-bluetooth
+[submodule "tabbed"]
+	path = tabbed
+	url = ./tabbed
+[submodule "tictactoe"]
+	path = tictactoe
+	url = ./tictactoe
+[submodule "valentin-website"]
+	path = valentin-website
+	url = ./valentin-website
