@@ -589,3 +589,30 @@
 [submodule "valentin-website"]
 	path = valentin-website
 	url = ./valentin-website
+[submodule "asteroids"]
+	path = asteroids
+	url = ./asteroids
+[submodule "clitify"]
+	path = clitify
+	url = ./clitify
+[submodule "cli-typer"]
+	path = cli-typer
+	url = ./cli-typer
+[submodule "fourier"]
+	path = fourier
+	url = ./fourier
+[submodule "paru"]
+	path = paru
+	url = ./paru
+[submodule "pygame-geometry"]
+	path = pygame-geometry
+	url = ./pygame-geometry
+[submodule "stow-dir"]
+	path = stow-dir
+	url = ./stow-dir
+[submodule "switchboard"]
+	path = switchboard
+	url = ./switchboard
+[submodule "youtube-downloader"]
+	path = youtube-downloader
+	url = ./youtube-downloader
