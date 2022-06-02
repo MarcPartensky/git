@@ -12,79 +12,85 @@
 	url = https://pickupsa:olmbqanvnrqhxqsklukbd7tqlltqa2kwhsvrg4q72x6gvieufrcq@dev.azure.com/pickupsa/Pickup/_git/Colis21-config
 [submodule "api-doc2"]
 	path = api-doc2
-	url = ./ansible
+	url = git@github.com:marcpartensky/git
 [submodule "ansible"]
 	path = ansible
-	url = ./ansible
+	url = git@github.com:marcpartensky/git
 [submodule "api-slack"]
 	path = api-slack
-	url = ./api-slack
+	url = git@github.com:marcpartensky/git
 [submodule "applescript"]
 	path = applescript
-	url = ./applescript
+	url = git@github.com:marcpartensky/git
 [submodule "automation"]
 	path = automation
-	url = ./automation
+	url = git@github.com:marcpartensky/git
 [submodule "backup-cleaner"]
 	path = backup-cleaner
-	url = ./backup-cleaner
+	url = git@github.com:marcpartensky/git
 [submodule "backup-scripts"]
 	path = backup-scripts
 	url = ./backup-scripts
 [submodule "bashbunny-payloads"]
 	path = bashbunny-payloads
-	url = ./bashbunny-payloads
+	url = git@github.com:marcpartensky/git
 [submodule "battistelli"]
 	path = battistelli
-	url = ./battistelli
+	url = git@github.com:marcpartensky/git
 [submodule "bitwarden-server"]
 	path = bitwarden-server
-	url = ./bitwarden-server
+	url = git@github.com:marcpartensky/git
 [submodule "brainperformer"]
 	path = brainperformer
-	url = ./brainperformer
+	url = git@github.com:marcpartensky/git
 [submodule "bruteforce-gpg"]
 	path = bruteforce-gpg
-	url = ./bruteforce-gpg
+	url = git@github.com:marcpartensky/git
+[submodule "bully"]
+    path = bully
+	url = git@github.com:marcpartensky/git/bully
 [submodule "caddix"]
 	path = caddix
-	url = ./caddix
+	url = git@github.com:marcpartensky/git
 [submodule "caps2esc"]
 	path = caps2esc
-	url = ./caps2esc
+	url = git@github.com:marcpartensky/git
 [submodule "colis21"]
 	path = colis21
 	url = ./colis21
 [submodule "concours-consultants-2013"]
 	path = concours-consultants-2013
-	url = ./concours-consultants-2013
+	url = git@github.com:marcpartensky/git
 [submodule "consultant-mobile-app"]
 	path = consultant-mobile-app
-	url = ./consultant-mobile-app
+	url = git@github.com:marcpartensky/git
 [submodule "cv"]
 	path = cv
-	url = ./cv
+	url = git@github.com:marcpartensky/git
 [submodule "cv2"]
 	path = cv2
-	url = ./cv2
+	url = git@github.com:marcpartensky/git
 [submodule "discord-bot"]
 	path = discord-bot
-	url = ./discord-bot
+	url = git@github.com:marcpartensky/git
+[submodule "discord-irc"]
+	path = discord-irc
+	url = git@github.com:reactiflux/discord-irc.git
 [submodule "docker"]
 	path = docker
-	url = ./docker
+	url = git@github.com:marcpartensky/git
 [submodule "docker-api"]
 	path = docker-api
-	url = ./docker-api
+	url = git@github.com:marcpartensky/git
 [submodule "docker-consultants"]
 	path = docker-consultants
-	url = ./docker-consultants
+	url = git@github.com:marcpartensky/git
 [submodule "docker-engine"]
 	path = docker-engine
-	url = ./docker-engine
+	url = git@github.com:marcpartensky/git
 [submodule "dotfiles"]
 	path = dotfiles
-	url = ./dotfiles
+	url = git@github.com:MarcPartensky/Dotfiles.git
 [submodule "focalboard"]
 	path = focalboard
 	url = ./focalboard
@@ -165,7 +171,7 @@
 	url = ./log4jpwn
 [submodule "markdown"]
 	path = markdown
-	url = ./markdown
+	url = git@github.com:MarcPartensky/Markdown.git
 [submodule "metasploit-framework"]
 	path = metasploit-framework
 	url = ./metasploit-framework
@@ -192,55 +198,55 @@
 	url = ./pandoc-api
 [submodule "paraphrase-generator"]
 	path = paraphrase-generator
-	url = ./paraphrase-generator
+	url = git@github.com:Vamsi995/Paraphrase-Generator.git
 [submodule "paraphraser"]
 	path = paraphraser
-	url = ./paraphraser
+	url = git@github.com:RasaHQ/paraphraser.git
 [submodule "pass-import"]
 	path = pass-import
-	url = ./pass-import
+	url = git@github.com:roddhjav/pass-import.git
 [submodule "pegasus-api"]
 	path = pegasus-api
-	url = ./pegasus-api
+	url = ssh://git@git.dev.juniorisep.com:18338/pegasus/pegasus-api.git
 [submodule "pegasus-front"]
 	path = pegasus-front
-	url = ./pegasus-front
+	url = ssh://git@git.dev.juniorisep.com:18338/pegasus/pegasus-front.git
 [submodule "pegasus-infra"]
 	path = pegasus-infra
-	url = ./pegasus-infra
+	url = ssh://git@git.dev.juniorisep.com:18338/pegasus/pegasus-infra.git
 [submodule "phoenix-api"]
 	path = phoenix-api
-	url = ./phoenix-api
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/phoenix/phoenix-api.git
 [submodule "phoenix-front"]
 	path = phoenix-front
-	url = ./phoenix-front
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/phoenix/phoenix-front.git
 [submodule "phoenix-infra"]
 	path = phoenix-infra
-	url = ./phoenix-infra
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/phoenix/phoenix-infra.git
 [submodule "pickup"]
 	path = pickup
-	url = ./pickup
+	url = git@github.com:marcpartensky/pickup
 [submodule "platform_frameworks_base"]
 	path = platform_frameworks_base
-	url = ./platform_frameworks_base
+	url = git@github.com:aosp-mirror/platform_frameworks_base.git
 [submodule "portix"]
 	path = portix
-	url = ./portix
+	url = ssh://git@git.dev.juniorisep.com:18338/mpartensky/portix.git
 [submodule "pritunl"]
 	path = pritunl
-	url = ./pritunl
+	url = git@github.com:pritunl/pritunl.git
 [submodule "pritunl-client-electron"]
 	path = pritunl-client-electron
-	url = ./pritunl-client-electron
+	url = git@github.com:pritunl/pritunl-client-electron.git
 [submodule "prospectix7"]
 	path = prospectix7
-	url = ./prospectix7
+	url = git@github.com:Coding-Foundation/prospectix-premium.git
 [submodule "prospectix7-api"]
 	path = prospectix7-api
-	url = ./prospectix7-api
+	url = git@github.com:Coding-Foundation/prospectix-premium-back.git
 [submodule "prospectix7-front"]
 	path = prospectix7-front
-	url = ./prospectix7-front
+	url = git@github.com:gmoindrot/prospectix-premium-front.git
 [submodule "prospectix-api"]
 	path = prospectix-api
 	url = ./prospectix-api
@@ -252,133 +258,133 @@
 	url = ./prospectix-infra
 [submodule "proxy-list"]
 	path = proxy-list
-	url = ./proxy-list
+	url = git@github.com:clarketm/proxy-list.git
 [submodule "pymake"]
 	path = pymake
-	url = ./pymake
+	url = git@github.com:mozilla/pymake.git
 [submodule "Python"]
 	path = Python
 	url = ./Python
 [submodule "python-2020"]
 	path = python-2020
-	url = ./python-2020
+	url = git@github.com:MarcPartensky/Python-2020.git
 [submodule "reactive-resume"]
 	path = reactive-resume
-	url = ./reactive-resume
+	url = git@github.com:AmruthPillai/Reactive-Resume.git
 [submodule "rgpdix"]
 	path = rgpdix
-	url = ./rgpdix
+	url = git@github.com:Coding-Foundation/RGPDix.git
 [submodule "robomongo"]
 	path = robomongo
-	url = ./robomongo
+	url = git@github.com:Studio3T/robomongo.git
 [submodule "rust"]
 	path = rust
-	url = ./rust
+	url = git@github.com:MarcPartensky/Rust.git
 [submodule "samy-dotfiles"]
 	path = samy-dotfiles
-	url = ./samy-dotfiles
+	url = git@github.com:samyhaff/dotfiles.git
 [submodule "sandbox"]
 	path = sandbox
-	url = ./sandbox
+	url = git@github.com:MarcPartensky/Sandbox.git
 [submodule "schtroumpfix"]
 	path = schtroumpfix
-	url = ./schtroumpfix
+	url = git@github.com:MarcPartensky/schtroumpfix.git
 [submodule "secrets"]
 	path = secrets
-	url = ./secrets
+	url = git@github:marcpartensky/secrets
 [submodule "sequelpro"]
 	path = sequelpro
-	url = ./sequelpro
+	url = git@github.com:sequelpro/sequelpro.git
 [submodule "shell"]
 	path = shell
-	url = ./shell
+	url = git@github.com:MarcPartensky/Shell.git
 [submodule "signal-desktop"]
 	path = signal-desktop
-	url = ./signal-desktop
+	url = git@github.com:signalapp/Signal-Desktop.git
 [submodule "signal-server"]
 	path = signal-server
-	url = ./signal-server
+	url = git@github.com:signalapp/Signal-Server.git
 [submodule "ssh"]
 	path = ssh
-	url = ./ssh
+	url = ssh://git@git.dev.juniorisep.com:18338/mpartensky/ssh.git
 [submodule "ssh-honeypot"]
 	path = ssh-honeypot
-	url = ./ssh-honeypot
+	url = git@github.com:droberson/ssh-honeypot.git
 [submodule "sshpiper"]
 	path = sshpiper
-	url = ./sshpiper
+	url = git@github.com:tg123/sshpiper.git
 [submodule "stow"]
 	path = stow
-	url = ./stow
+	url = git@github.com:aspiers/stow.git
 [submodule "student-webapp"]
 	path = student-webapp
-	url = ./student-webapp
+	url = ssh://git@git.dev.juniorisep.com:18338/application-consultants-globale/student-webapp.git
 [submodule "svelte-template"]
 	path = svelte-template
-	url = ./svelte-template
+	url = git@github.com:sveltejs/template.git
 [submodule "sysadmin-tools"]
 	path = sysadmin-tools
-	url = ./sysadmin-tools
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/sysadmins/sysadmin-tools.git
 [submodule "termux"]
 	path = termux
-	url = ./termux
+	url = git@github.com:Grimler91/unstable-packages.git
 [submodule "termux-app"]
 	path = termux-app
-	url = ./termux-app
+	url = git@github.com:termux/termux-app.git
 [submodule "termux-packages"]
 	path = termux-packages
-	url = ./termux-packages
+	url = git@github.com:termux/termux-packages.git
 [submodule "thaiwara"]
 	path = thaiwara
-	url = ./thaiwara
+	url = git@github.com:MarcPartensky/thaiwara.git
 [submodule "thc-hydra"]
 	path = thc-hydra
-	url = ./thc-hydra
+	url = git@github.com:vanhauser-thc/thc-hydra.git
 [submodule "tia21"]
 	path = tia21
 	url = ./tia21
 [submodule "tmate-ssh-server"]
 	path = tmate-ssh-server
-	url = ./tmate-ssh-server
+	url = git@github.com:tmate-io/tmate-ssh-server.git
 [submodule "tunnel"]
 	path = tunnel
-	url = ./tunnel
+	url = ssh://github/marcpartensky/tunnel
 [submodule "upterm"]
 	path = upterm
-	url = ./upterm
+	url = git@github.com:owenthereal/upterm.git
 [submodule "vagrant"]
 	path = vagrant
-	url = ./vagrant
+	url = git@github.com:MarcPartensky/vagrant.git
 [submodule "vpn"]
 	path = vpn
 	url = ./vpn
 [submodule "web"]
 	path = web
-	url = ./web
+	url = git@github.com:MarcPartensky/Web.git
 [submodule "website"]
 	path = website
-	url = ./website
+	url = git@gitlab.com:marcpartensky/website
 [submodule "wordpress"]
 	path = wordpress
-	url = ./wordpress
+	url = git@github.com:MarcPartensky/wordpress.git
 [submodule "xerosploit"]
 	path = xerosploit
-	url = ./xerosploit
+	url = https://github.com/LionSec/xerosploit
 [submodule "c"]
 	path = c
-	url = ./c
+	url = git@github.com:marcpartensky/git
 [submodule "valentin-dotfiles"]
 	path = valentin-dotfiles
-	url = ./valentin-dotfiles
+	url = git@github.com:marcpartensky/git/valentin-dotfiles
 [submodule "blockchain"]
 	path = blockchain
-	url = ./blockchain
+	url = git@github.com:marcpartensky/git
 [submodule "caddy-vps"]
 	path = caddy-vps
-	url = ./caddy-vps
+	url = git@github.com:marcpartensky/git
 [submodule "csharp"]
 	path = csharp
-	url = ./csharp
+	url = git@github.com:marcpartensky/git
 [submodule "ff2mpv"]
 	path = ff2mpv
 	url = ./ff2mpv
@@ -408,19 +414,19 @@
 	url = ./novpn
 [submodule "reredirect"]
 	path = reredirect
-	url = ./reredirect
+	url = git@github.com:marcpartensky/git/reredirect
 [submodule "template"]
 	path = template
-	url = ./template
+	url = git@github.com:marcpartensky/git/template
 [submodule "johntheripper"]
 	path = johntheripper
 	url = ./johntheripper
 [submodule "beef"]
 	path = beef
-	url = ./beef
+	url = git@github.com:marcpartensky/git
 [submodule "data-analysis"]
 	path = data-analysis
-	url = ./data-analysis
+	url = git@github.com:marcpartensky/git
 [submodule "git-puller"]
 	path = git-puller
 	url = ./git-puller
@@ -435,7 +441,7 @@
 	url = ./opencv-stream-video-to-web
 [submodule "service"]
 	path = service
-	url = ./service
+	url = git@github.com:marcpartensky/git/service
 [submodule "libinput-gestures"]
 	path = libinput-gestures
 	url = ./libinput-gestures
@@ -444,37 +450,37 @@
 	url = ./mailcow-dockerized
 [submodule "pulseaudio-ctl"]
 	path = pulseaudio-ctl
-	url = ./pulseaudio-ctl
+	url = git@github.com:marcpartensky/git/pulseaudio-ctl
 [submodule "python"]
 	path = python
-	url = ./python
+	url = git@github.com:xantix1203/Python.git
 [submodule "slackisotermix"]
 	path = slackisotermix
-	url = ./slackisotermix
+	url = git@github.com:marcpartensky/git/slackisotermix
 [submodule "anomaly21"]
 	path = anomaly21
-	url = ./anomaly21
+	url = git@github.com:marcpartensky/git
 [submodule "airflow"]
 	path = airflow
-	url = ./airflow
+	url = git@github.com:marcpartensky/git
 [submodule "app-intervenant-infra"]
 	path = app-intervenant-infra
-	url = ./app-intervenant-infra
+	url = git@github.com:marcpartensky/git
 [submodule "bspwm"]
 	path = bspwm
-	url = ./bspwm
+	url = git@github.com:marcpartensky/git
 [submodule "camphish"]
 	path = camphish
-	url = ./camphish
+	url = git@github.com:marcpartensky/git
 [submodule "database"]
 	path = database
-	url = ./database
+	url = git@github.com:marcpartensky/git
 [submodule "deskreen"]
 	path = deskreen
-	url = ./deskreen
+	url = git@github.com:marcpartensky/git
 [submodule "dwm"]
 	path = dwm
-	url = ./dwm
+	url = git@github.com:MarcPartensky/dwm.git
 [submodule "extension-list"]
 	path = extension-list
 	url = ./extension-list
@@ -483,7 +489,7 @@
 	url = ./gnome-shell-extensions
 [submodule "IALab"]
 	path = IALab
-	url = ./IALab
+	url = git@github.com:marcpartensky/git
 [submodule "miraclecast"]
 	path = miraclecast
 	url = ./miraclecast
@@ -492,43 +498,43 @@
 	url = ./mojave-gtk-theme
 [submodule "paper-icon-theme"]
 	path = paper-icon-theme
-	url = ./paper-icon-theme
+	url = git@github.com:marcpartensky/git/paper-icon-theme
 [submodule "pegasus-documents"]
 	path = pegasus-documents
-	url = ./pegasus-documents
+	url = git@github.com:marcpartensky/git/pegasus-documents
 [submodule "phoenix-mail"]
 	path = phoenix-mail
-	url = ./phoenix-mail
+	url = git@github.com:marcpartensky/git/phoenix-mail
 [submodule "phoenix-services"]
 	path = phoenix-services
-	url = ./phoenix-services
+	url = git@github.com:marcpartensky/git/phoenix-services
 [submodule "pickup-kibana"]
 	path = pickup-kibana
-	url = ./pickup-kibana
+	url = git@github.com:marcpartensky/git/pickup-kibana
 [submodule "poetry-test"]
 	path = poetry-test
-	url = ./poetry-test
+	url = git@github.com:marcpartensky/git/poetry-test
 [submodule "polybar-dwm-module"]
 	path = polybar-dwm-module
-	url = ./polybar-dwm-module
+	url = git@github.com:polybar/polybar.git
 [submodule "spotify"]
 	path = spotify
-	url = ./spotify
+	url = git@github.com:marcpartensky/git/spotify
 [submodule "arch"]
 	path = arch
-	url = ./arch
+	url = git@github.com:marcpartensky/git
 [submodule "avd"]
 	path = avd
-	url = ./avd
+	url = git@github.com:marcpartensky/git
 [submodule "connman"]
 	path = connman
-	url = ./connman
+	url = git@github.com:marcpartensky/git
 [submodule "data-analysis-vinicole"]
 	path = data-analysis-vinicole
-	url = ./data-analysis-vinicole
+	url = git@github.com:marcpartensky/git
 [submodule "dwm-bar"]
 	path = dwm-bar
-	url = ./dwm-bar
+	url = git@github.com:joestandring/dwm-bar.git
 [submodule "element-desktop"]
 	path = element-desktop
 	url = ./element-desktop
@@ -543,16 +549,16 @@
 	url = ./pamixer
 [submodule "watsmynote"]
 	path = watsmynote
-	url = ./watsmynote
+	url = git@github.com:marcpartensky/git/watsmynote
 [submodule "airstatus"]
 	path = airstatus
-	url = ./airstatus
+	url = git@github.com:marcpartensky/git
 [submodule "bigdata-project"]
 	path = bigdata-project
-	url = ./bigdata-project
+	url = git@github.com:marcpartensky/git
 [submodule "caddy-docker-proxy"]
 	path = caddy-docker-proxy
-	url = ./caddy-docker-proxy
+	url = git@github.com:marcpartensky/git
 [submodule "dotfiles-arp242"]
 	path = dotfiles-arp242
 	url = ./dotfiles-arp242
@@ -570,49 +576,152 @@
 	url = ./mapix
 [submodule "schtroumpfix2"]
 	path = schtroumpfix2
-	url = ./schtroumpfix2
+	url = git@github.com:marcpartensky/git/schtroumpfix2
 [submodule "spotifyd"]
 	path = spotifyd
-	url = ./spotifyd
+	url = git@github.com:marcpartensky/git/spotifyd
 [submodule "st"]
 	path = st
-	url = ./st
+	url = git@github.com:LukeSmithxyz/st.git
 [submodule "switchboard-plug-bluetooth"]
 	path = switchboard-plug-bluetooth
-	url = ./switchboard-plug-bluetooth
+	url = git@github.com:marcpartensky/git/switchboard-plug-bluetooth
 [submodule "tabbed"]
 	path = tabbed
-	url = ./tabbed
+	url = https://git.suckless.org/tabbed
 [submodule "tictactoe"]
 	path = tictactoe
-	url = ./tictactoe
+	url = git@github.com:samyhaff/Tic-tac-toe.git
 [submodule "valentin-website"]
 	path = valentin-website
-	url = ./valentin-website
+	url = git@github.com:ValentinColin/Website.git
 [submodule "asteroids"]
 	path = asteroids
-	url = ./asteroids
+	url = git@github.com:marcpartensky/git
 [submodule "clitify"]
 	path = clitify
-	url = ./clitify
+	url = git@github.com:marcpartensky/git
 [submodule "cli-typer"]
 	path = cli-typer
-	url = ./cli-typer
+	url = git@github.com:marcpartensky/git
 [submodule "fourier"]
 	path = fourier
 	url = ./fourier
 [submodule "paru"]
 	path = paru
-	url = ./paru
+	url = git@github.com:marcpartensky/git/paru
 [submodule "pygame-geometry"]
 	path = pygame-geometry
-	url = ./pygame-geometry
+	url = git@github.com:marcpartensky/git/pygame-geometry
 [submodule "stow-dir"]
 	path = stow-dir
-	url = ./stow-dir
+	url = git@github.com:marcpartensky/git/stow-dir
 [submodule "switchboard"]
 	path = switchboard
-	url = ./switchboard
+	url = git@github.com:marcpartensky/git/switchboard
 [submodule "youtube-downloader"]
 	path = youtube-downloader
-	url = ./youtube-downloader
+	url = git@github.com:marcpartensky/git/youtube-downloader
+[submodule "calendar"]
+	path = calendar
+	url = git@github.com:marcpartensky/git/calendar
+[submodule "california"]
+	path = california
+	url = git@github.com:marcpartensky/git/california
+[submodule "dwmblocks"]
+	path = dwmblocks
+	url = git@github.com:marcpartensky/git/dwmblocks
+[submodule "iceweasel"]
+	path = iceweasel
+	url = git@github.com:mozilla/gecko-dev.git
+[submodule "iwd-hs"]
+	path = iwd-hs
+	url = git@github.com:marcpartensky/git/iwd-hs
+[submodule "lukesmith-dotfiles"]
+	path = lukesmith-dotfiles
+	url = git@github.com:marcpartensky/git/lukesmith-dotfiles
+[submodule "project-music-api"]
+	path = project-music-api
+	url = git@github.com:Crakleurs/project-music-api.git
+[submodule "samy-dwm"]
+	path = samy-dwm
+	url = git@github.com:marcpartensky/git/samy-dwm
+[submodule "samy-dwmblocks"]
+	path = samy-dwmblocks
+	url = git@github.com:marcpartensky/git/samy-dwmblocks
+[submodule "serenity"]
+	path = serenity
+	url = git@github.com:marcpartensky/git/serenity
+[submodule "slock"]
+	path = slock
+	url = git@github.com:marcpartensky/git/slock
+[submodule "spotify-react-web-client"]
+	path = spotify-react-web-client
+	url = git@github.com:marcpartensky/git/spotify-react-web-client
+[submodule "spotifywm"]
+	path = spotifywm
+	url = git@github.com:marcpartensky/git/spotifywm
+[submodule "switchboard-plug-security-privacy"]
+	path = switchboard-plug-security-privacy
+	url = git@github.com:marcpartensky/git/switchboard-plug-security-privacy
+[submodule "switchboard-plug-services"]
+	path = switchboard-plug-services
+	url = git@github.com:marcpartensky/git/switchboard-plug-services
+[submodule "theme-toggler"]
+	path = theme-toggler
+	url = git@github.com:marcpartensky/git/theme-toggler
+[submodule "transparent-theme"]
+	path = transparent-theme
+	url = git@github.com:marcpartensky/git/transparent-theme
+[submodule "docker-forticlient"]
+	url = git@github.com:MarcPartensky/docker-forticlient.git
+[submodule "fail2ban"]
+	url = git@github.com:fail2ban/fail2ban.git
+[submodule "favicon-proxy"]
+	url = https://github.com/keeweb/favicon-proxy.git
+[submodule "insomnia"]
+	url = git@github.com:Kong/insomnia.git
+[submodule "isphoenixup"]
+	url = ssh://git@git.dev.juniorisep.com:18338/mpartensky/isphoenixup.git
+[submodule "kdbxweb"]
+	url = https://github.com/keeweb/kdbxweb.git
+[submodule "keeweb"]
+	url = https://github.com/keeweb/keeweb.git
+[submodule "keeweb-beta"]
+	url = https://github.com/keeweb/beta.keeweb.info.git
+[submodule "keeweb-connect"]
+	url = https://github.com/keeweb/keeweb-connect.git
+[submodule "keeweb-plugins"]
+	url = https://github.com/keeweb/keeweb-plugins.git
+[submodule "keeweb-site"]
+	url = https://github.com/keeweb/keeweb-site.git
+[submodule "kingdomino"]
+	url = git@github.com:MarcPartensky/kingdomino.git
+[submodule "nuki"]
+	url = git@github.com:frzifus/nuki.git
+[submodule "pms"]
+	url = git@github.com:Peekmo/pms
+[submodule "prospectix5-back"]
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/prospectix/api.git
+[submodule "prospectix6-api"]
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/prospectix-6/prospectix-api.git
+[submodule "prospectix6-front"]
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/prospectix-6/prospectix-front.git
+[submodule "prospectix6-infra"]
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/prospectix-6/prospectix-infra.git
+[submodule "searchix-api"]
+	url = ssh://git@git.dev.juniorisep.com:18338/interne/phoenix/searchix-api.git
+[submodule "services"]
+	url = git@github.com:MarcPartensky/services.git
+[submodule "silentxmrminer"]
+	url = git@github.com:UnamSanctam/SilentXMRMiner.git
+[submodule "spotify-cli"]
+	url = git@github.com:brianstrauch/spotify-cli.git
+[submodule "tmux-spotify"]
+	url = git@github.com:jrock2004/tmux-spotify.git
+[submodule "wifi-bf"]
+	url = git@github.com:flancast90/wifi-bf.git
+[submodule "wifi-brute-force"]
+	url = git@github.com:ahmadchen/WIFI-Brute-Force.git
+[submodule "wifite2"]
+	url = git@github.com:derv82/wifite2.git
