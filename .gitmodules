@@ -725,3 +725,168 @@
 	url = git@github.com:ahmadchen/WIFI-Brute-Force.git
 [submodule "wifite2"]
 	url = git@github.com:derv82/wifite2.git
+[submodule "alacritty"]
+	path = alacritty
+	url = ./alacritty
+[submodule "baritone"]
+	path = baritone
+	url = ./baritone
+[submodule "binance-bigdata"]
+	path = binance-bigdata
+	url = ./binance-bigdata
+[submodule "colis22"]
+	path = colis22
+	url = ./colis22
+[submodule "dwl"]
+	path = dwl
+	url = ./dwl
+[submodule "fluxgui"]
+	path = fluxgui
+	url = ./fluxgui
+[submodule "hypr"]
+	path = hypr
+	url = ./hypr
+[submodule "hyprland"]
+	path = hyprland
+	url = ./hyprland
+[submodule "Hyprland"]
+	path = Hyprland
+	url = ./Hyprland
+[submodule "impact"]
+	path = impact
+	url = ./impact
+[submodule "instantwm"]
+	path = instantwm
+	url = ./instantwm
+[submodule "libinput-config"]
+	path = libinput-config
+	url = ./libinput-config
+[submodule "libresignal"]
+	path = libresignal
+	url = ./libresignal
+[submodule "mcpelauncher-extract"]
+	path = mcpelauncher-extract
+	url = ./mcpelauncher-extract
+[submodule "nvidia-all"]
+	path = nvidia-all
+	url = ./nvidia-all
+[submodule "nvim-lua"]
+	path = nvim-lua
+	url = ./nvim-lua
+[submodule "prospectix8-back"]
+	path = prospectix8-back
+	url = ./prospectix8-back
+[submodule "prospectix8-front"]
+	path = prospectix8-front
+	url = ./prospectix8-front
+[submodule "protonup-qt"]
+	path = protonup-qt
+	url = ./protonup-qt
+[submodule "react-tailwind-spotify-clone"]
+	path = react-tailwind-spotify-clone
+	url = ./react-tailwind-spotify-clone
+[submodule "rofi"]
+	path = rofi
+	url = ./rofi
+[submodule "rofi-themes-collection"]
+	path = rofi-themes-collection
+	url = ./rofi-themes-collection
+[submodule "Serenity"]
+	path = Serenity
+	url = ./Serenity
+[submodule "shadowchat"]
+	path = shadowchat
+	url = ./shadowchat
+[submodule "tia22"]
+	path = tia22
+	url = ./tia22
+[submodule "timer"]
+	path = timer
+	url = ./timer
+[submodule "whitesur-firefox-theme"]
+	path = whitesur-firefox-theme
+	url = ./whitesur-firefox-theme
+[submodule "whitesurfirefoxthememacos"]
+	path = whitesurfirefoxthememacos
+	url = ./whitesurfirefoxthememacos
+[submodule "wofi"]
+	path = wofi
+	url = ./wofi
+[submodule "xpra"]
+	path = xpra
+	url = ./xpra
+[submodule "arch2appimage"]
+	path = arch2appimage
+	url = ./arch2appimage
+[submodule "chess"]
+	path = chess
+	url = ./chess
+[submodule "dockerfiles"]
+	path = dockerfiles
+	url = ./dockerfiles
+[submodule "dreamy-dotfiles"]
+	path = dreamy-dotfiles
+	url = ./dreamy-dotfiles
+[submodule "go-sct"]
+	path = go-sct
+	url = ./go-sct
+[submodule "hackathon"]
+	path = hackathon
+	url = ./hackathon
+[submodule "hackathon202210"]
+	path = hackathon202210
+	url = ./hackathon202210
+[submodule "machine-learning"]
+	path = machine-learning
+	url = ./machine-learning
+[submodule "marcpartensky"]
+	path = marcpartensky
+	url = ./marcpartensky
+[submodule "matrix-webcam"]
+	path = matrix-webcam
+	url = ./matrix-webcam
+[submodule "minesweeper"]
+	path = minesweeper
+	url = ./minesweeper
+[submodule "numeris"]
+	path = numeris
+	url = ./numeris
+[submodule "nvchad"]
+	path = nvchad
+	url = ./nvchad
+[submodule "prospectix-premium"]
+	path = prospectix-premium
+	url = ./prospectix-premium
+[submodule "python-chess"]
+	path = python-chess
+	url = ./python-chess
+[submodule "python-games"]
+	path = python-games
+	url = ./python-games
+[submodule "python-othello"]
+	path = python-othello
+	url = ./python-othello
+[submodule "qbittorrent"]
+	path = qbittorrent
+	url = ./qbittorrent
+[submodule "rgb-rs"]
+	path = rgb-rs
+	url = ./rgb-rs
+[submodule "spotify-adblock"]
+	path = spotify-adblock
+	url = ./spotify-adblock
+[submodule "spotify-proxy"]
+	path = spotify-proxy
+	url = ./spotify-proxy
+[submodule "tableau-docker"]
+	path = tableau-docker
+	url = ./tableau-docker
+[submodule "valentincolin"]
+	path = valentincolin
+	url = ./valentincolin
+[submodule "widgets"]
+	path = widgets
+	url = ./widgets
+[submodule "wl-gammactl"]
+	path = wl-gammactl
+	url = ./wl-gammactl
